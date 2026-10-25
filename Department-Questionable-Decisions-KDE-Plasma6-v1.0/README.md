@@ -8,7 +8,7 @@ Built to be distinctive **and** practical enough for everyday work.
 
 ## Screenshots
 
-_None yet, check back_
+![KDE Plasma desktop using The Department of Questionable Decisions theme](Screenshot/Department_01.png)
 
 ## Features
 

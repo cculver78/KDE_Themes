@@ -1,0 +1,41 @@
+# AI assistant and agent instructions/configuration
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+COPILOT.md
+.agents/
+.aider*
+.claude/
+.codex/
+.continue/
+.cursor/
+.gemini/
+.junie/
+.kilocode/
+.opencode/
+.roo/
+.sourcegraph/
+.windsurf/
+.cursorrules
+.windsurfrules
+.github/copilot-instructions.md
+.github/instructions/
+*.agent.md
+*.instructions.md
+
+# Local credentials and environment files
+.aws/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo

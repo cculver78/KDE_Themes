@@ -1,0 +1,9 @@
+{
+  "KPlugin": {
+    "Id": "Nevermore",
+    "Name": "Nevermore",
+    "Version": "1.0.0",
+    "Description": "Dark gothic Plasma surfaces",
+    "License": "GPL-3.0-or-later"
+  }
+}

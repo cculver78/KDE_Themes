@@ -1,0 +1,15 @@
+[kdeglobals][General]
+ColorScheme=Nevermore
+
+[kdeglobals][Icons]
+Theme=NevermoreIcons
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[plasmarc][Theme]
+name=Nevermore
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__NevermoreAurorae05

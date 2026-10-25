@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.edgecase.nevermore",
+    "Name": "Nevermore",
+    "Description": "Poe meets modern Linux — a Victorian library after midnight.",
+    "Version": "1.0.0",
+    "License": "GPL-3.0-or-later"
+  }
+}

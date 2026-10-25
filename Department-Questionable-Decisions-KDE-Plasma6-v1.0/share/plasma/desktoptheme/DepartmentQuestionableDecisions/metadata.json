@@ -1,0 +1,15 @@
+{
+  "KPlugin": {
+    "Id": "DepartmentQuestionableDecisions",
+    "Name": "The Department of Questionable Decisions",
+    "Description": "Antique brass and midnight-blue Plasma style",
+    "Version": "0.4.0",
+    "Category": "Plasma Theme",
+    "License": "GPL-3.0-or-later",
+    "Authors": [
+      {
+        "Name": "EdgeCase Software"
+      }
+    ]
+  }
+}

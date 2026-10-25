@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs><linearGradient id="body" x2="0" y2="1"><stop stop-color="#405054"/><stop offset="1" stop-color="#1c272c"/></linearGradient><linearGradient id="drawer" x2="0" y2="1"><stop stop-color="#465658"/><stop offset="1" stop-color="#2a3437"/></linearGradient></defs>
+<path d="M23 13H105Q110 13 110 19V112H18V19Q18 13 23 13Z" fill="url(#body)" stroke="#bd9b61" stroke-width="3"/>
+<rect x="27" y="25" width="74" height="36" rx="3" fill="url(#drawer)" stroke="#ad8b54" stroke-width="2"/>
+<rect x="27" y="68" width="74" height="35" rx="3" fill="url(#drawer)" stroke="#ad8b54" stroke-width="2"/>
+<rect x="48" y="31" width="32" height="15" rx="2" fill="#bba27a" stroke="#e1c79a" stroke-width="1.5"/>
+<path d="M53 37H75M53 41H69" stroke="#485052" stroke-width="2"/>
+<rect x="48" y="74" width="32" height="15" rx="2" fill="#bba27a" stroke="#e1c79a" stroke-width="1.5"/>
+<path d="M53 80H75M53 84H69" stroke="#485052" stroke-width="2"/>
+<rect x="55" y="51" width="18" height="5" rx="2" fill="#caad72"/>
+<rect x="55" y="94" width="18" height="5" rx="2" fill="#caad72"/>
+<rect x="22" y="111" width="84" height="7" rx="2" fill="#1a2326" stroke="#b5935a" stroke-width="2"/>
+<path d="M30 19H96" stroke="#628a81" stroke-width="2" opacity=".85"/>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Name": "The Department of Questionable Decisions",
+    "Description": "A complete dark, strange KDE Plasma 6 theme with a deeply bureaucratic personality.",
+    "Id": "org.edgecase.questionabledecisions",
+    "Version": "1.0.0",
+    "License": "GPL-3.0-or-later",
+    "Category": "Plasma Look And Feel",
+    "Authors": [
+      {
+        "Name": "EdgeCase Software"
+      }
+    ]
+  }
+}
